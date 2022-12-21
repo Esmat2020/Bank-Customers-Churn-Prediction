@@ -1,4 +1,7 @@
 # Churn-Prediction-Bank-Customers
+# Problem?
+- Whether the bank will lose its customers.
+- Understand the data set well and ask the right questions while analyzing the data set to minimize customer churn.
 # Introduction
 We are given the dataset about bank information of around 10000 customers and also given if they have churned or not. Our task is to build a ML model such that we can predict if a customer is going to churn or not. We will also perform EDA on this dataset to inform the bank on what they could do to minimise the churn and build a sustainable business.
 # The story of the data set
